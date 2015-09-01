@@ -1,0 +1,9 @@
+<input placeholder="search users" class="form-control" ng-model="query">
+<div align="left">
+<div class="list-group" >
+<a href="#/userall" class="list-group-item" ng-repeat="users in users | filter:query">
+{{users.user}}
+</a>
+html!
+</div>
+</div>
