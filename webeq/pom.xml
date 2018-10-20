@@ -11,8 +11,8 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
 
 <properties>
 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-<jetty.version>9.3.2.v20150730</jetty.version>
-<jetty.jsp.version>9.3.2.v20150730</jetty.jsp.version>
+<jetty.version>9.3.24.v20180605</jetty.version>
+<jetty.jsp.version>9.3.24.v20180605</jetty.jsp.version>
 <org.springframework-version>4.0.6.RELEASE</org.springframework-version>
 <org.aspectj-version>1.8.1</org.aspectj-version>
 <org.slf4j-version>1.6.6</org.slf4j-version>
